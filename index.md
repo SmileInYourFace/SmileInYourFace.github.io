@@ -15,4 +15,7 @@ Mittlerweile sind sowohl Annie M.G. Schmidt als auch Fiep Westendorp verstorben,
 Die Figure Pluck ist am Anfang des Buches auf der Suche nach einer Unterkunft. Er fragt daher jede Kreatur:
 > Wissen sie nicht ein Haus für mich?
 
-![Pluck](/image/Pluck.PNG)
+
+![Pluck](./image/Pluck.png)
+<img src="https://cdn.pixabay.com/photo/2013/12/11/10/55/plucked-string-instrument-226788_960_720.jpg"/>
+(Quelle: https://cdn.pixabay.com/photo/2013/12/11/10/55/plucked-string-instrument-226788_960_720.jpg)
