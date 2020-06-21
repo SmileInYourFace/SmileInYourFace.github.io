@@ -5,3 +5,9 @@ Im Original, im Niederländischen heißt der Charakter 'Pluk van de Petteflet'. 
 Besonders lebendig werden die Geschichten durch die Bilder von Fiep Westendorp, die bei vielen Bücherprojekten mit Annie M.G. Schmidt zusammengearbeitet hat.
 
 Mittlerweile sind sowohl Annie M.G. Schmidt als auch Fiep Westendorp verstorben, so dass es keine weiteren Geschichten von Pluck mit dem Kranwagen mehr geben wird. Jeder der die Geschichten in seiner Kindheit gelesen hat, wird sie aber sein Leben lang nicht mehr vergessen.
+
+## Individuelle Charaktereigenchaften von Pluck
+* lebt selbstbestimmt
+* ist hilfsbereit
+* liebt Tiere
+* wird von jedem gemocht
