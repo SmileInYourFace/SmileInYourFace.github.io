@@ -16,6 +16,4 @@ Die Figure Pluck ist am Anfang des Buches auf der Suche nach einer Unterkunft. E
 > Wissen sie nicht ein Haus für mich?
 
 
-![Pluck](./image/Pluck.png)
-<img src="https://cdn.pixabay.com/photo/2013/12/11/10/55/plucked-string-instrument-226788_960_720.jpg"/>
-(Quelle: https://cdn.pixabay.com/photo/2013/12/11/10/55/plucked-string-instrument-226788_960_720.jpg)
+<img src="https://github.com/SmileInYourFace/SmileInYourFace.github.io/blob/master/image/Pluck.PNG"/>
