@@ -11,3 +11,6 @@ Mittlerweile sind sowohl Annie M.G. Schmidt als auch Fiep Westendorp verstorben,
 * ist hilfsbereit
 * liebt Tiere
 * wird von jedem gemocht
+
+Die Figure Pluck ist am Anfang des Buches auf der Suche nach einer Unterkunft. Er fragt daher jede Kreatur:
+> Wissen sie nicht ein Haus für mich?
